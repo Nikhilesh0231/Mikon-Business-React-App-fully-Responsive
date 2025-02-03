@@ -1,3 +1,6 @@
+#
+This App is fully responsive over different sizes as well concept of nesting css is used and use of animation properties of for better UI interactivity makes this app amazing.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
