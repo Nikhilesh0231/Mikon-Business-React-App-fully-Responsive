@@ -1,5 +1,5 @@
 #
-This App is fully responsive over different sizes as well concept of nesting css is used and use of animation properties of for better UI interactivity makes this app amazing.
+This App is fully responsive over different sizes as well as concept of nesting css is used and use of animation properties for better UI interactivity makes this app amazing.
 
 # Getting Started with Create React App
 
